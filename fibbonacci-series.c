@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int n, first = 0, second = 1, next;
+    int n, first = 0, second = 1, next; 
 
     printf("Enter the number of terms: ");
     scanf("%d", &n);
@@ -18,6 +18,11 @@ int main() {
 		
     }
 
-    return 0;
+//    return 0;
+//    int n;
+//    double arr[100]
+//    printf('print a number of elements from 1 to 100:')
+//    scanf("d", &n)
+//    add two arrays
 }
 
